@@ -7,7 +7,7 @@ namespace ConsoleApp16
         static void Main(string[] args)
         {
             Console.Write("Please Pick a Number between 1-7: ");
-            int num = Convert.ToInt16(Console.ReadLine());
+            int num = Convert.ToInt32(Console.ReadLine());
             string day;
             switch(num)
             {
