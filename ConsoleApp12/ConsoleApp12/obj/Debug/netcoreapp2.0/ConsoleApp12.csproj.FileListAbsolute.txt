@@ -1,0 +1,11 @@
+C:\Users\g6_000\source\repos\ConsoleApp12\ConsoleApp12\obj\Debug\netcoreapp2.0\ConsoleApp12.csprojResolveAssemblyReference.cache
+C:\Users\g6_000\source\repos\ConsoleApp12\ConsoleApp12\obj\Debug\netcoreapp2.0\ConsoleApp12.csproj.CoreCompileInputs.cache
+C:\Users\g6_000\source\repos\ConsoleApp12\ConsoleApp12\obj\Debug\netcoreapp2.0\ConsoleApp12.AssemblyInfoInputs.cache
+C:\Users\g6_000\source\repos\ConsoleApp12\ConsoleApp12\obj\Debug\netcoreapp2.0\ConsoleApp12.AssemblyInfo.cs
+C:\Users\g6_000\source\repos\ConsoleApp12\ConsoleApp12\bin\Debug\netcoreapp2.0\ConsoleApp12.deps.json
+C:\Users\g6_000\source\repos\ConsoleApp12\ConsoleApp12\bin\Debug\netcoreapp2.0\ConsoleApp12.runtimeconfig.json
+C:\Users\g6_000\source\repos\ConsoleApp12\ConsoleApp12\bin\Debug\netcoreapp2.0\ConsoleApp12.runtimeconfig.dev.json
+C:\Users\g6_000\source\repos\ConsoleApp12\ConsoleApp12\bin\Debug\netcoreapp2.0\ConsoleApp12.dll
+C:\Users\g6_000\source\repos\ConsoleApp12\ConsoleApp12\bin\Debug\netcoreapp2.0\ConsoleApp12.pdb
+C:\Users\g6_000\source\repos\ConsoleApp12\ConsoleApp12\obj\Debug\netcoreapp2.0\ConsoleApp12.dll
+C:\Users\g6_000\source\repos\ConsoleApp12\ConsoleApp12\obj\Debug\netcoreapp2.0\ConsoleApp12.pdb

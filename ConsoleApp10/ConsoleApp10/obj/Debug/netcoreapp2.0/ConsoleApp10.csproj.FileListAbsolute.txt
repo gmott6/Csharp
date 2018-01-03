@@ -1,0 +1,11 @@
+C:\Users\g6_000\source\repos\ConsoleApp10\ConsoleApp10\bin\Debug\netcoreapp2.0\ConsoleApp10.deps.json
+C:\Users\g6_000\source\repos\ConsoleApp10\ConsoleApp10\bin\Debug\netcoreapp2.0\ConsoleApp10.runtimeconfig.json
+C:\Users\g6_000\source\repos\ConsoleApp10\ConsoleApp10\bin\Debug\netcoreapp2.0\ConsoleApp10.runtimeconfig.dev.json
+C:\Users\g6_000\source\repos\ConsoleApp10\ConsoleApp10\bin\Debug\netcoreapp2.0\ConsoleApp10.dll
+C:\Users\g6_000\source\repos\ConsoleApp10\ConsoleApp10\bin\Debug\netcoreapp2.0\ConsoleApp10.pdb
+C:\Users\g6_000\source\repos\ConsoleApp10\ConsoleApp10\obj\Debug\netcoreapp2.0\ConsoleApp10.csprojResolveAssemblyReference.cache
+C:\Users\g6_000\source\repos\ConsoleApp10\ConsoleApp10\obj\Debug\netcoreapp2.0\ConsoleApp10.csproj.CoreCompileInputs.cache
+C:\Users\g6_000\source\repos\ConsoleApp10\ConsoleApp10\obj\Debug\netcoreapp2.0\ConsoleApp10.AssemblyInfoInputs.cache
+C:\Users\g6_000\source\repos\ConsoleApp10\ConsoleApp10\obj\Debug\netcoreapp2.0\ConsoleApp10.AssemblyInfo.cs
+C:\Users\g6_000\source\repos\ConsoleApp10\ConsoleApp10\obj\Debug\netcoreapp2.0\ConsoleApp10.dll
+C:\Users\g6_000\source\repos\ConsoleApp10\ConsoleApp10\obj\Debug\netcoreapp2.0\ConsoleApp10.pdb
